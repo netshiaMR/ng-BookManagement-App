@@ -9,9 +9,8 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.main.bkmg.Book;
-
 public class BookDAO {
+	
 	private String url;
 	private String password;
 	private String username;

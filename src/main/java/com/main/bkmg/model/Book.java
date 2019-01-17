@@ -1,4 +1,4 @@
-package com.main.bkmg;
+package com.main.bkmg.model;
 
 public class Book {
     protected int id;
